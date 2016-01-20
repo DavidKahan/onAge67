@@ -1796,6 +1796,134 @@ input:focus {
 		margin-bottom: 20px;
 		font-family: Arial;
 	}
+	
+	/* conclusion page style for tablet */
+	#conclusion {
+		background-color:#24A499;
+	}
+	#conclusionContainer{
+		position: relative;
+		margin: 0 auto;
+		width:90%;
+		top:50px;
+		/*height:530px;*/
+		font-family: 'poeti';
+		direction:rtl;
+	}
+	
+	#TxtContainer {
+		position: relative;
+		float: right;
+		width: 50%;
+	}
+	
+	#conclusionContainer .smallTlt{
+		font-family: 'poeti-bold';
+		color:#BF1067;
+		font-size:3vw;
+		width: 100%;
+		text-align:right;
+	}
+	#conclusionContainer .bigTlt{
+		color:#BF1067;
+		font-size:4.5vw;
+		font-family: 'poeti-bold';
+		width: 100%;
+		text-align:right;
+	}
+	#conclusionContainer .txt{
+		text-align:justify;
+		position: relative;
+		top: 30px;
+		width: 95%;
+		height:200px;
+		color:#ffffff;
+		font-size:2.5vw;
+	}
+	#conclusionContainer .continueBtn {
+		position: relative;
+		float: left;
+		top: 90px;
+		width: 45%;
+		height: 76px;
+		background-color:#BF1067;
+		border-radius: 10px;
+		text-align: center;
+		box-shadow: 0 8px 6px -6px #434141;
+		cursor: pointer;
+	}
+	#conclusionContainer .continueBtnTxt {
+		position: relative;
+		margin: auto;
+		top: 20px;
+		font-size: 4vw;
+		font-family:'poeti-bold';
+		color:#FFFFFF;	
+	}
+	#sharing {
+		top:80px;
+		float:left;
+		position: relative;	
+		height:50px;
+		width:45%;
+	}
+	.shareTxt {
+		color: #ffffff;
+		font-size:2vw;
+		float:right;
+		text-align:center;
+		position: relative;
+		width:20%;
+	}
+	.shareLine {
+		top: 6px;
+		float:right;
+		position: relative;
+		/*display:inline;*/
+		height:1px;
+		background-color:#FFFFFF;
+		width:40%;
+	}
+	
+	#sharingBtns {
+		position: relative;
+		top:10px;
+		margin: 0 auto;
+		width:200px;
+		height: 40px;
+	}
+	.sharingCircle {
+		position: relative;
+		border-radius:50%;
+		height:40px;
+		width:40px;
+		background-color:#BF1067;
+		float: right;
+		margin-right:7px;
+		cursor:pointer;
+		box-shadow: 0 8px 6px -6px #434141;
+	}
+	
+	.whatsapp {
+		background-position: center;
+		background-repeat: no-repeat;
+    	background-image: url(../img/whatsapp.png);
+	}
+	.facebook {
+		background-position: center;
+		background-repeat: no-repeat;
+    	background-image: url(../img/face.png);
+	}
+	.excell {
+		background-position: center;
+		background-repeat: no-repeat;
+    	background-image: url(../img/excell.png);
+	}
+	.email {
+		background-position: center;
+		background-repeat: no-repeat;
+    	background-image: url(../img/email.png);
+	}
 }
 
 /* mobile*/
@@ -2038,6 +2166,97 @@ input:focus {
 		margin-top: 20px;
 		margin-bottom: 20px;
 		font-family: Arial;
+	}
+	
+	/* conclusion page style for mobile */
+	#conclusion {
+		background-color:#24A499;
+	}
+	
+	#conclusionContainer{
+		position: relative;
+		margin: 0 auto;
+		top: 20px;
+		width:75%;
+		/*height:530px;*/
+		font-family: 'poeti';
+		direction:rtl;
+	}
+	
+	#conclusionContainer .smallTlt{
+		font-family: 'poeti-bold';
+		color:#BF1067;
+		font-size:6vw;
+		width: 100%;
+		text-align:right;
+	}
+	#conclusionContainer .bigTlt{
+		color:#BF1067;
+		font-size:7vw;
+		font-family: 'poeti-bold';
+		width: 100%;
+		text-align:right;
+	}
+	#conclusionContainer .txt{
+		text-align:justify;
+		position: relative;
+		top: 20px;
+		width: 100%;
+		height:200px;
+		color:#ffffff;
+		font-size:4.5vw;
+	}
+	#conclusionContainer .continueBtn {
+		position: relative;
+		float: right;
+		top: 50px;
+		width: 100%;
+		height: 56px;
+		background-color:#BF1067;
+		border-radius: 10px;
+		text-align: center;
+		box-shadow: 0 8px 6px -6px #434141;
+		cursor: pointer;
+	}
+	#conclusionContainer .continueBtnTxt {
+		position: relative;
+		margin: auto;
+		top: 15px;
+		font-size: 6vw;
+		font-family:'poeti-bold';
+		color:#FFFFFF;	
+	}
+	#sharing {
+		top:40px;
+		float:right;
+		position: relative;	
+		height:50px;
+		width:100%;
+	}
+	.shareTxt {
+		color: #ffffff;
+		font-size:4.5vw;
+		float:right;
+		text-align:center;
+		position: relative;
+		width:20%;
+	}
+	.shareLine {
+		top: 8px;
+		float:right;
+		position: relative;
+		/*display:inline;*/
+		height:1px;
+		background-color:#FFFFFF;
+		width:40%;
+	}
+	
+	#sharingBtns {
+		position: relative;
+		top:10px;
+		margin: 0 auto;
+		width:200px;
+		height: 40px;
 	}
 	.sharingCircle {
 		position: relative;
