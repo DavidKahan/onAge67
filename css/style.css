@@ -1,0 +1,207 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1024px;
+	 height: 768px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #bg 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1024px;
+	 height: 768px;
+	 z-index:1;
+} 
+
+ #bg_0 
+{ 
+	 left: -2px; 
+	 top: 716px; 
+	 position: absolute; 
+	 width: 1026px;
+	 height: 64px;
+	 z-index:2;
+} 
+
+ #layer_3 
+{ 
+	 left: 350px; 
+	 top: 201px; 
+	 position: absolute; 
+	 width: 323px;
+	 height: 59px;
+	 z-index:3;
+} 
+
+ #layer_4 
+{ 
+	 left: 462px; 
+	 top: 669px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:4;
+} 
+
+ #layer_3_0 
+{ 
+	 left: 489px; 
+	 top: 669px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:5;
+} 
+
+ #layer_2 
+{ 
+	 left: 517px; 
+	 top: 669px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:6;
+} 
+
+ #layer_1 
+{ 
+	 left: 544px; 
+	 top: 669px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:7;
+} 
+
+ #malered 
+{ 
+	 left: 525px; 
+	 top: 293px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 91px;
+	 z-index:8;
+} 
+
+ #femalered 
+{ 
+	 left: 419px; 
+	 top: 289px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 91px;
+	 z-index:9;
+} 
+
+ #maleblue 
+{ 
+	 left: 525px; 
+	 top: 292px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 92px;
+	 z-index:10;
+} 
+
+ #femaleblue 
+{ 
+	 left: 419px; 
+	 top: 289px; 
+	 position: absolute; 
+	 width: 80px;
+	 height: 91px;
+	 z-index:11;
+} 
+
+ #boxshadow 
+{ 
+	 left: 463px; 
+	 top: 596px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 52px;
+	 z-index:12;
+} 
+
+ #box 
+{ 
+	 left: 460px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 52px;
+	 z-index:13;
+} 
+
+ #layer_14 
+{ 
+	 left: 485px; 
+	 top: 606px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 27px;
+	 z-index:14;
+} 
+
+ #boxshadow_0 
+{ 
+	 left: 463px; 
+	 top: 596px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 52px;
+	 z-index:15;
+} 
+
+ #box_0 
+{ 
+	 left: 460px; 
+	 top: 591px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 52px;
+	 z-index:16;
+} 
+
+ #layer_17 
+{ 
+	 left: 485px; 
+	 top: 606px; 
+	 position: absolute; 
+	 width: 53px;
+	 height: 27px;
+	 z-index:17;
+} 
+
+ #palette 
+{ 
+	 left: 116px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 792px;
+	 height: 110px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 34px; 
+	 top: 33px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 23px;
+	 z-index:19;
+} 
